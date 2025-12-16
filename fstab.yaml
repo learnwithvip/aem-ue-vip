@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https:/author-p177858-e1869823.adobeaemcloud.com/bin/franklin.delivery/learnwithvip/aem-ue-vip/blob/main"
+    url: "https:/author-p177858-e1869823.adobeaemcloud.com/bin/franklin.delivery/learnwithvip/aem-ue-vip/main"
     type: "markup"
     suffix: ".html"
